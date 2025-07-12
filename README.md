@@ -47,7 +47,7 @@ git clone https://github.com/julianoctmarin/EchoMind
 cd echomind
 ```
 
-### 2. Install Dependencies
+### 2. Install Dependencies 
 
 ```bash
 npm install
