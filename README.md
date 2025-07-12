@@ -43,7 +43,7 @@ Follow the instructions below to set up and run the EchoMind project on your loc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/igorcalves/EchoMind
+git clone https://github.com/julianoctmarin/EchoMind
 cd echomind
 ```
 
